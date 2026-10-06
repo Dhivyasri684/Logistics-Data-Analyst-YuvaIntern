@@ -1,0 +1,61 @@
+Order_ID,Order_Date,Product_Category,Origin,Destination,Transport_Mode,Quantity,Shipping_Cost_INR,Shipping_Time_Days,Inventory_Level,Delivery_Status
+ORD1001,2026-01-01,Automotive Parts,Bengaluru,Delhi,Sea,93.0,14483.4,1.0,42.0,In Transit
+ORD1002,2026-01-02,Food & Beverage,Mumbai,Ahmedabad,Road,29.0,12912.73,8.0,269.0,Delivered
+ORD1003,2026-01-03,Clothing,Pune,Kochi,Sea,97.0,4981.17,3.0,29.0,In Transit
+ORD1004,2026-01-04,Food & Beverage,Bengaluru,Kolkata,Road,22.0,6268.39,12.0,265.0,Delivered
+ORD1005,2026-01-05,Food & Beverage,Bengaluru,Coimbatore,Road,86.0,12886.14,10.0,344.0,Delivered
+ORD1006,2026-01-06,Furniture,Mumbai,Ahmedabad,Road,70.0,8953.225,7.0,119.0,In Transit
+ORD1007,2026-01-07,Clothing,Bengaluru,Kochi,Air,58.0,3206.8,10.0,309.0,Delivered
+ORD1008,2026-01-08,Clothing,Bengaluru,Ahmedabad,Air,39.0,8706.58,5.0,199.0,Delayed
+ORD1009,2026-01-09,Electronics,Mumbai,Kochi,Rail,84.0,14093.4,10.0,242.0,In Transit
+ORD1010,2026-01-10,Food & Beverage,Mumbai,Kochi,Road,65.0,10683.62,5.0,413.0,In Transit
+ORD1011,2026-01-11,Automotive Parts,Chennai,Kolkata,Rail,45.0,8894.87,14.0,269.0,Delivered
+ORD1012,2026-01-12,Clothing,Pune,Kochi,Rail,37.0,2179.91,7.0,166.0,Delivered
+ORD1013,2026-01-13,Food & Beverage,Pune,Ahmedabad,Road,72.0,9533.1,9.0,269.0,In Transit
+ORD1014,2026-01-14,Furniture,Bengaluru,Kochi,Road,37.0,14858.76,12.0,115.0,In Transit
+ORD1015,2026-01-15,Automotive Parts,Pune,Kolkata,Road,18.0,2789.19,5.0,276.0,Delayed
+ORD1016,2026-01-16,Furniture,Bengaluru,Kolkata,Sea,25.0,8160.28,1.0,344.0,Delivered
+ORD1017,2026-01-17,Automotive Parts,Chennai,Ahmedabad,Rail,52.0,13258.7,10.0,23.0,Delivered
+ORD1018,2026-01-18,Food & Beverage,Mumbai,Delhi,Sea,24.0,11318.91,10.0,35.0,In Transit
+ORD1019,2026-01-19,Electronics,Mumbai,Delhi,Road,12.0,10697.62,1.0,299.0,Delivered
+ORD1020,2026-01-20,Automotive Parts,Mumbai,Kochi,Sea,11.0,10775.27,2.0,355.0,Delayed
+ORD1021,2026-01-21,Furniture,Pune,Coimbatore,Sea,71.0,5904.77,14.0,266.0,Delayed
+ORD1022,2026-01-22,Food & Beverage,Chennai,Kochi,Road,21.0,4969.0,6.0,277.0,Delivered
+ORD1023,2026-01-23,Automotive Parts,Pune,Ahmedabad,Rail,37.0,12292.93,8.0,495.0,In Transit
+ORD1024,2026-01-24,Electronics,Pune,Ahmedabad,Air,52.0,12303.61,8.0,403.0,In Transit
+ORD1025,2026-01-25,Electronics,Chennai,Ahmedabad,Sea,80.0,13112.43,13.0,179.0,Delivered
+ORD1026,2026-01-26,Clothing,Chennai,Ahmedabad,Road,63.0,13768.02,5.0,494.0,Delayed
+ORD1027,2026-01-27,Clothing,Chennai,Ahmedabad,Road,90.0,8061.06,1.0,359.0,Delivered
+ORD1028,2026-01-28,Furniture,Chennai,Kolkata,Air,26.0,8953.225,13.0,171.0,In Transit
+ORD1029,2026-01-29,Automotive Parts,Mumbai,Delhi,Sea,34.0,12135.79,7.0,415.0,Delivered
+ORD1030,2026-01-30,Automotive Parts,Hyderabad,Ahmedabad,Road,42.0,10029.49,5.0,197.0,Delayed
+ORD1031,2026-01-31,Clothing,Hyderabad,Coimbatore,Road,55.0,10767.93,6.0,182.0,Delivered
+ORD1032,2026-02-01,Automotive Parts,Chennai,Coimbatore,Sea,46.5,12100.26,13.0,399.0,Delivered
+ORD1033,2026-02-02,Automotive Parts,Hyderabad,Coimbatore,Road,12.0,13438.08,7.0,52.0,Delayed
+ORD1034,2026-02-03,Electronics,Hyderabad,Coimbatore,Rail,31.0,5599.53,3.0,436.0,Delivered
+ORD1035,2026-02-04,Clothing,Chennai,Kolkata,Sea,31.0,6133.28,12.0,464.0,Delivered
+ORD1036,2026-02-05,Food & Beverage,Hyderabad,Coimbatore,Air,25.0,2134.54,10.0,198.0,Delayed
+ORD1037,2026-02-06,Clothing,Pune,Ahmedabad,Air,46.5,9011.58,3.0,446.0,Delayed
+ORD1038,2026-02-07,Food & Beverage,Bengaluru,Kochi,Road,32.0,1310.38,5.0,120.0,Delivered
+ORD1039,2026-02-08,Electronics,Bengaluru,Coimbatore,Rail,68.0,7411.49,6.0,287.0,Delivered
+ORD1040,2026-02-09,Furniture,Chennai,Kolkata,Air,73.0,8505.55,9.0,342.0,Delivered
+ORD1041,2026-02-10,Automotive Parts,Mumbai,Kolkata,Road,65.0,4868.89,13.0,84.0,Delivered
+ORD1042,2026-02-11,Electronics,Chennai,Coimbatore,Road,52.0,9189.83,14.0,436.0,Delivered
+ORD1043,2026-02-12,Automotive Parts,Mumbai,Kochi,Sea,23.0,1233.1,12.0,187.0,In Transit
+ORD1044,2026-02-13,Furniture,Bengaluru,Coimbatore,Rail,8.0,1330.34,5.0,349.0,In Transit
+ORD1045,2026-02-14,Furniture,Chennai,Kolkata,Road,39.0,12480.93,22.5,62.0,In Transit
+ORD1046,2026-02-15,Electronics,Pune,Delhi,Sea,68.0,5914.71,14.0,63.0,In Transit
+ORD1047,2026-02-16,Furniture,Hyderabad,Ahmedabad,Sea,53.0,2604.26,14.0,304.0,Delivered
+ORD1048,2026-02-17,Food & Beverage,Mumbai,Kolkata,Rail,21.0,8215.85,14.0,416.0,Delivered
+ORD1049,2026-02-18,Furniture,Hyderabad,Coimbatore,Sea,48.0,11733.91,4.0,31.0,Delivered
+ORD1050,2026-02-19,Automotive Parts,Hyderabad,Ahmedabad,Road,96.0,3864.66,5.0,114.0,Delivered
+ORD1051,2026-02-20,Automotive Parts,Chennai,Coimbatore,Road,34.0,9645.04,12.0,321.0,Delivered
+ORD1052,2026-02-21,Automotive Parts,Hyderabad,Coimbatore,Air,97.0,21803.50875,10.0,405.0,Delayed
+ORD1053,2026-02-22,Automotive Parts,Pune,Delhi,Sea,50.0,1533.88,10.0,272.0,Delivered
+ORD1054,2026-02-23,Food & Beverage,Hyderabad,Ahmedabad,Sea,10.0,8345.24,5.0,261.0,Delivered
+ORD1055,2026-02-24,Clothing,Chennai,Ahmedabad,Road,41.0,8477.02,7.0,54.0,Delivered
+ORD1056,2026-02-25,Electronics,Pune,Delhi,Sea,28.0,9851.5,4.0,234.0,In Transit
+ORD1057,2026-02-26,Automotive Parts,Bengaluru,Kolkata,Sea,97.0,11110.5,1.0,356.0,Delivered
+ORD1058,2026-02-27,Furniture,Hyderabad,Coimbatore,Sea,50.0,14657.1,14.0,109.0,Delivered
+ORD1059,2026-02-28,Automotive Parts,Chennai,Kochi,Sea,57.0,8131.46,14.0,283.0,Delivered
+ORD1060,2026-03-01,Furniture,Bengaluru,Coimbatore,Air,99.0,5385.98,5.0,112.0,In Transit
